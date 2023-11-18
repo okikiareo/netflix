@@ -9,7 +9,7 @@
 body{
     background-color: black;
     color: #fff;
-    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    font-family:  Sans, Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
 }
 
 .flex{
@@ -241,11 +241,6 @@ font-size: 2rem;
     background-color: #584c4c;
     position: relative;
 }
-/* 
-.lang.show {
-    outline: 2px solid #FFF;
-    box-shadow: inset;
-} */
 
 .lang-icon {
     width: 24px;
